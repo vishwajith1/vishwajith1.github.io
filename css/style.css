@@ -94,12 +94,12 @@ ul.nav.navbar li a.w3ls-icon:hover {
 }
 /*-- //top-nav --*/
 /*-- banner --*/
-.bac {
-	background: url(../images/bg1.jpg);
+.video {
+	background-image: url("../video/background.jpeg");
     background-position:0px 0px;
 	text-align: left;
 	min-height: 100%;
-	background-size:contain;
+	background-size:100%;
 }
 .banner-text {
     margin: 22em 0 10em;

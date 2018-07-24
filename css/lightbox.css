@@ -12,7 +12,7 @@ body:after {
     filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=80);
     opacity: 0.96;
     display: none;
-} 
+}
 .lightbox {
   position: absolute;
   left: 0;
@@ -40,7 +40,7 @@ body:after {
 
 .lb-outerContainer {
   position: relative;
-  background-color: white;
+  background-image: url("../video/background.jpeg");
   *zoom: 1;
   width: 250px;
   height: 250px;
@@ -182,7 +182,7 @@ body:after {
     padding-top: 1em;
     font-size: 14px;
     color: #ffffff;
-} 
+}
 .lb-data .lb-close {
   display: block;
   float: right;
