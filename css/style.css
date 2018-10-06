@@ -95,8 +95,8 @@ ul.nav.navbar li a.w3ls-icon:hover {
 /*-- //top-nav --*/
 /*-- banner --*/
 .video {
-	background-image: url("../video/background.jpeg");
-  background-position:0px 0px;
+	background-image: url("../images/vish.jpeg");
+  background-position:100px 0px;
 	text-align: left;
 	min-height: 100%;
 	background-size:100%;
